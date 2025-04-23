@@ -1,0 +1,42 @@
+body{
+    background-color: #303030;
+    color: aquamarine;
+    text-align: start;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+input{
+    background-color: #303030;
+    border-color: aquamarine;
+    color: aquamarine;
+}
+input:focus{
+    background-color: aquamarine;
+    color: #303030;
+    transition: 0.5s;
+    border-color: aquamarine;
+}
+select{
+    background-color: #303030;
+    color: aquamarine;
+    border-radius: 10%;
+    border-color: aquamarine;
+}
+.btn{
+    border-radius: 10%;
+    background-color: #303030;
+    color: aquamarine;
+    border-radius: 10%;
+    border-color: aquamarine;
+}
+.btn:hover{
+    background-color: aquamarine;
+    color: #303030;
+    transition: 0.5s;
+}
+.erro {
+    color: red;
+    font-size: 14px;
+}
