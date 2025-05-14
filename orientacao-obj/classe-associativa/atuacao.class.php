@@ -20,3 +20,4 @@ class Atuacao
         return $this->ator;
     }
 }
+?>
